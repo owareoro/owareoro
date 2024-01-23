@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is my student github account. The real fun usually happens [here](https://github.com/rowend36) instead.
-But if some reason, you are still reading this,.....
+But if for some reason, you are still reading this,.....
 
 Nice to meet you.
 - 🔭 I’m currently working on lots of stuff. You should really check [this](https://github.com/rowend36) out.
